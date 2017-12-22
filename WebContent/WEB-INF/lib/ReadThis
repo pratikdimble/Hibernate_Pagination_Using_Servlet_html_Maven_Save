@@ -1,0 +1,5 @@
+in this folder add manually jars as given
+
+1. Hibernate all  Jars from required folder
+2. ojdbc6.jar or ojdbc14.jar
+3. servlet-api.jar
